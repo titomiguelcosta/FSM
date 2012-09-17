@@ -1,0 +1,23 @@
+{
+  "name": "titomiguelcosta/fsm",
+  "type": "library",
+  "description": "An implementation of a finite state machine",
+  "keywords": ["fsm", "machine", "rpn"],
+  "license": "MIT",
+  "authors": [
+        {
+            "name": "Tito Miguel Costa",
+            "email": "fsm@titomiguelcosta.com",
+            "homepage": "http://www.titomiguelcosta.com/"
+        },
+        {
+            "name": "Jon Parise",
+            "email": "jon@php.net"
+        }
+  ],
+  "autoload": {
+    "psr-0": {
+      "TitoMiguelCosta": "lib"
+    }
+  }
+}
